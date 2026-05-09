@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(openspec status *)",
+      "Bash(openspec instructions *)",
+      "Bash(pnpm type-check *)",
+      "Bash(openspec new *)",
+      "Bash(pnpm dev *)",
+      "Bash(curl -s http://localhost:5173/)",
+      "Bash(kill %1)",
+      "Bash(curl -s http://localhost:5174/api/tree)",
+      "Bash(curl -s http://localhost:5173/api/tree)",
+      "Bash(openspec list *)",
+      "Bash(curl -s http://localhost:5180/)"
+    ]
+  }
+}
